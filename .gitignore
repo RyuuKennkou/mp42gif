@@ -33,5 +33,8 @@ output/
 *.mkv
 *.wmv
 *.gif
-
 *.exe
+
+# 允许测试/演示文件
+!01.mp4
+!01.gif
