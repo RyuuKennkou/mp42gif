@@ -22,20 +22,14 @@ Thumbs.db
 
 # 编译产物
 output/
-*.exe
 *.ilk
 *.pdb
 *.obj
 
-# 视频文件 (你的私人文件)
+# 视频/GIF (私人文件)
 *.mp4
 *.avi
 *.mov
 *.mkv
 *.wmv
-
-# GIF 输出
 *.gif
-
-# MATLAB
-*.m~
