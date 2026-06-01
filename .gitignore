@@ -33,3 +33,5 @@ output/
 *.mkv
 *.wmv
 *.gif
+
+*.exe
